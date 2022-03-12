@@ -15,7 +15,7 @@ let lessons=[
       location: "Classroom 02",
       price: 100,
       spaces: 5,
-      image: "images/physics.JPG",
+      image: "images/physics.jpg",
       rating:4,
 
     },
@@ -53,7 +53,7 @@ let lessons=[
         location: "Classroom 06",
         price: 230,
         spaces: 5,
-        image: "images/sociology.JPG",
+        image: "images/sociology.jpg",
         rating:4,
      
         },
