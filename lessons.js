@@ -73,7 +73,7 @@ let lessons=[
           location: "Classroom 08",
           price: 300,
           spaces: 5,
-          image: "images/computer.JPG",
+          image: "images/computer.jpg",
           rating:5,
   
         },
@@ -83,7 +83,7 @@ let lessons=[
           location: "Classroom 09",
           price: 270,
           spaces: 5,
-          image: "images/Business.jpg",
+          image: "images/Businesss.jpg",
           rating:4,
       
           },
